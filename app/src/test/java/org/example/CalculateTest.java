@@ -11,4 +11,5 @@ public class CalculateTest {
     int expected = 5;
     assertEquals(expected, calculate.sum(2, 3));
   }
+  
 }
